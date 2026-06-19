@@ -1,0 +1,6 @@
+{
+  "name": "Global YouTube Kids Animation Planner",
+  "description": "YouTube Kids keyword trend visualizer, CTR header planner, cute automatic thumbnail generator prompts, and instant multi-age animation AI script architect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
